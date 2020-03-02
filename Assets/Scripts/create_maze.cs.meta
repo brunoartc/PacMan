@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8bbd068a5212b64ab8c155a46b14bb7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pellet: {fileID: 8736747751547779260, guid: 48efc074ba287f54f8a885eccaedac3f,
+      type: 3}
+  - energizer: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
